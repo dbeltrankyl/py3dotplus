@@ -5,7 +5,7 @@
 # Copyright (c) 2014 Lance Hepler
 # Copyright (c) 2004-2011 Ero Carrera <ero@dkbza.org>
 # Copyright (c) 2004-2007 Michael Krause <michael@krause-software.de>
-#
+# Copyright (c) 2022 Daniel Beltrán
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
 # in the Software without restriction, including without limitation the rights
@@ -78,6 +78,7 @@ setup(
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.4',
+        'Programming Language :: Python :: 3.8',
         'Topic :: Scientific/Engineering :: Visualization',
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],
